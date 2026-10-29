@@ -1,0 +1,33 @@
+name = "みさ"
+subtitle = "B3"
+email = "me🎀misah.cc"
+icon_url = "/avatar.jpg"
+introduction = "気分屋。パソコンで遊ぶこともある。"
+
+[theme]
+background_color = "#f5f5f3"
+text_color = "#1f1f1f"
+accent_color = "rgb(35, 164, 147)"
+
+[blog]
+default_thumbnail = "/avatar.jpg"
+
+[[social_links]]
+label = "GitHub"
+href = "https://github.com/forgretuu"
+
+[[social_links]]
+label = "Twitter"
+href = "https://x.com/forgret_uu"
+
+[[career]]
+date = "2022-10"
+detail = "入社"
+
+[[career]]
+date = "2023-03"
+detail = "退社"
+
+[[career]]
+date = "2023-04"
+detail = "大学 入学"
